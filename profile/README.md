@@ -18,8 +18,10 @@ Promover o desenvolvimento regional através da integração entre universidade,
 
 ### 📂 Repositórios em Destaque
 Explore alguns de nossos projetos e materiais:
-- 📖 [**Jornada Empreendedora**](https://github.com/PampaTec/jornada-empreendedora): Trilhas de aprendizado e materiais para quem está começando.
-- 🛠️ [**Pré-incubação**](https://github.com/PampaTec/pre-incubacao): Processos e documentação para o amadurecimento de ideias.
+
+- 🛠️ [**Pré-incubação**](https://github.com/PampaTec/pre-incubacao-pampatec): para times de empreendedores validarem seus modelos de negócio utilizando o Business Model Canvas (BMC) com o apoio de um consultor de IA.
+
+- 🛠️ [**Manual MVP Antigravity**](https://github.com/PampaTec/manual-mvp-antigravity): Guia completo para desenvolvimento de MVPs (Minimum Viable Products) usando Inteligência Artificial com Google Antigravity.
 
 ---
 
